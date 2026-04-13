@@ -1,0 +1,27 @@
+```
+# Dependencies
+node_modules/
+
+# Build artifacts
+.video-downloader/node_modules/.vite/
+
+# Logs
+*.log
+server.log
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Package lock
+package-lock.json
+```
